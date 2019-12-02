@@ -7,7 +7,7 @@ import java.nio.charset.StandardCharsets;
 import java.util.stream.Stream;
 
 public class InputReader {
-    private static String getInput(String file) throws IOException {
+    public static String getInput(String file) throws IOException {
         InputStream stream = InputReader.class.getResourceAsStream(file);
         return stream != null
                 ? IOUtils.toString(InputReader.class.getResourceAsStream(file), StandardCharsets.UTF_8)
