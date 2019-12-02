@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d1d28869-e5ce-4305-bd58-1dec694de097" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UPt86EmjDkOovFbe3kkq92vQA4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/resources" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="aoc" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.Day1Tests">
+    <configuration name="Day1Tests" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;aoc.day1.Day1Tests&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Day1Tests.test" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;aoc.day1.Day1Tests.test&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Day1Tests.testAOCDay1Examples" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;aoc.day1.Day1Tests.testAOCDay1Examples&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Day1Tests.testDay1Calculations" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;aoc.day1.Day1Tests.testDay1Calculations&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Day1Tests.testRecursiveFuelRequirement" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;aoc.day1.Day1Tests.testRecursiveFuelRequirement&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.Day1Tests" />
+        <item itemvalue="Gradle.Day1Tests.testDay1Calculations" />
+        <item itemvalue="Gradle.Day1Tests.testRecursiveFuelRequirement" />
+        <item itemvalue="Gradle.Day1Tests.testAOCDay1Examples" />
+        <item itemvalue="Gradle.Day1Tests.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d1d28869-e5ce-4305-bd58-1dec694de097" name="Default Changelist" comment="" />
+      <created>1575269895620</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575269895620</updated>
+      <workItem from="1575269899651" duration="4710000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="247" y="236" width="811" height="669" key="#Project_Structure" timestamp="1575271369669">
+      <screen x="0" y="23" width="1920" height="1113" />
+    </state>
+    <state x="247" y="236" width="811" height="669" key="#Project_Structure/0.23.1920.1113@0.23.1920.1113" timestamp="1575271369669" />
+    <state x="276" y="437" width="467" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1575271161452">
+      <screen x="0" y="23" width="1920" height="1113" />
+    </state>
+    <state x="276" y="437" width="467" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1920.1113@0.23.1920.1113" timestamp="1575271161452" />
+    <state width="1083" height="271" key="GridCell.Tab.0.bottom" timestamp="1575274981758">
+      <screen x="0" y="23" width="1920" height="1113" />
+    </state>
+    <state width="1083" height="271" key="GridCell.Tab.0.bottom/0.23.1920.1113@0.23.1920.1113" timestamp="1575274981758" />
+    <state width="1083" height="271" key="GridCell.Tab.0.center" timestamp="1575274981758">
+      <screen x="0" y="23" width="1920" height="1113" />
+    </state>
+    <state width="1083" height="271" key="GridCell.Tab.0.center/0.23.1920.1113@0.23.1920.1113" timestamp="1575274981758" />
+    <state width="1083" height="271" key="GridCell.Tab.0.left" timestamp="1575274981757">
+      <screen x="0" y="23" width="1920" height="1113" />
+    </state>
+    <state width="1083" height="271" key="GridCell.Tab.0.left/0.23.1920.1113@0.23.1920.1113" timestamp="1575274981757" />
+    <state width="1083" height="271" key="GridCell.Tab.0.right" timestamp="1575274981758">
+      <screen x="0" y="23" width="1920" height="1113" />
+    </state>
+    <state width="1083" height="271" key="GridCell.Tab.0.right/0.23.1920.1113@0.23.1920.1113" timestamp="1575274981758" />
+    <state width="1083" height="334" key="GridCell.Tab.1.bottom" timestamp="1575271814062">
+      <screen x="0" y="23" width="1920" height="1113" />
+    </state>
+    <state width="1083" height="334" key="GridCell.Tab.1.bottom/0.23.1920.1113@0.23.1920.1113" timestamp="1575271814062" />
+    <state width="1083" height="334" key="GridCell.Tab.1.center" timestamp="1575271814061">
+      <screen x="0" y="23" width="1920" height="1113" />
+    </state>
+    <state width="1083" height="334" key="GridCell.Tab.1.center/0.23.1920.1113@0.23.1920.1113" timestamp="1575271814061" />
+    <state width="1083" height="334" key="GridCell.Tab.1.left" timestamp="1575271814061">
+      <screen x="0" y="23" width="1920" height="1113" />
+    </state>
+    <state width="1083" height="334" key="GridCell.Tab.1.left/0.23.1920.1113@0.23.1920.1113" timestamp="1575271814061" />
+    <state width="1083" height="334" key="GridCell.Tab.1.right" timestamp="1575271814062">
+      <screen x="0" y="23" width="1920" height="1113" />
+    </state>
+    <state width="1083" height="334" key="GridCell.Tab.1.right/0.23.1920.1113@0.23.1920.1113" timestamp="1575271814062" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1575273702812">
+      <screen x="0" y="23" width="1920" height="1113" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.23.1920.1113@0.23.1920.1113" timestamp="1575273702812" />
+  </component>
+</project>
