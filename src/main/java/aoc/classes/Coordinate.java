@@ -4,6 +4,7 @@ import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.EqualsAndHashCode;
 
+import java.util.Comparator;
 import java.util.LinkedList;
 import java.util.Optional;
 
@@ -11,7 +12,7 @@ import static java.lang.Math.abs;
 
 @Data
 @AllArgsConstructor
-public class Coordinate {
+public class Coordinate implements Comparable<Coordinate> {
     int x;
     int y;
     @EqualsAndHashCode.Exclude
@@ -20,6 +21,10 @@ public class Coordinate {
     public Coordinate(int x, int y) {
         this.x = x;
         this.y = y;
+    }
+
+    public Coordinate() {
+
     }
 
     public Optional<Integer> getDistance() {
@@ -101,5 +106,17 @@ public class Coordinate {
             currDist = list.getLast().getDistance().get();
         }
         return currDist;
+    }
+
+    @Override
+    public int compareTo(Coordinate c1) {
+        if (((this.x >= c1.getX()) && (this.y > c1.getY()) && this.distance > c1.getDistance().get()) ||
+                ((this.x > c1.getX()) && (this.y >= c1.getY()) && this.distance >= c1.getDistance().get())) {
+            return 1;
+        } else if (((this.x == c1.getX()) && (this.y == c1.getY()))) {
+            return 0;
+        } else {
+            return -1;
+        }
     }
 }
